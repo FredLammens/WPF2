@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WpfBelangrijksteConcepten/1.0.0": {
+        "runtime": {
+          "WpfBelangrijksteConcepten.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfBelangrijksteConcepten/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
